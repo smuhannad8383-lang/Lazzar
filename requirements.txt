@@ -1,0 +1,5 @@
+# Tkinter is usually included with Python
+# SQLite3 is part of Python Standard Library
+
+# No external packages are strictly required for this simplified version.
+# Just install Python 3.8+
